@@ -1,4 +1,4 @@
-# the Unofficial Decentralized Climate Foundation repository
+# The Unofficial Decentralized Climate Foundation repository
 
 ## Please submit issues and PR to the [Official Repository](https://git.decentralizedclimate.org)
 
